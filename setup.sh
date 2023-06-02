@@ -24,12 +24,12 @@ echo " (_)___(_)(_)   (_)(_)     (_)(_)__(_)(_)____(_)___(_) "
 echo "  (_____) (_)   (_)(_)     (_)(_____) (______)(_____)  "
 clear
 echo "belajar pemrograman bash di windows"
-echo "1. apt-get install wget"
+echo "1. apt-get update"
 echo "2. keluar"
 read -p "pilih (1/2): " pil
 if { $pil = "1" }
 then
-....pkg instal wget 
+....pkg instal update 
 elif [ $pil = "2" ]
 then
 ....echo "keluar ... !"
